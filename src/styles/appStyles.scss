@@ -1,0 +1,16 @@
+
+$back-color:indianred;
+$color:white;
+
+.container {
+    display:flex;
+    justify-content: center;
+}
+
+.red-background {
+    background-color: $back-color;
+    padding:10px;
+    border-radius:8px;
+    color:$color;
+};
+
